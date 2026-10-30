@@ -48,7 +48,7 @@ def printMyName(name):
 
 [Markdown Guide](https://www.markdownguide.org/)
 
-![Logo do ISA](./logoISA.png)
+![Logo do ISA](logoISA.png)
 
 The path ./LogoISA.png is relative to this markdown file: ./ means the current folder (the one containing this file) and LogoISA.png is the image file in that same folder.
 
